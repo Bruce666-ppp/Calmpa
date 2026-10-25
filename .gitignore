@@ -1,0 +1,17 @@
+dist/
+node_modules/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+.DS_Store
+Thumbs.db
+*.log
+
+.openai/
+.ssh/
+*.keystore
