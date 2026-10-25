@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "output": "calmpa/documents/calmpa-full-report.pdf",
+  "output": "documents/calmpa-full-report.pdf",
   "bytes": 41177877,
   "sha256": "1292e438921a4453bd22df173ae85d92bf7e91790ae21e128409c4e3eebc5064",
   "parts": [
