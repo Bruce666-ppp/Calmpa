@@ -1,4 +1,4 @@
-name: Deploy portfolio to GitHub Pages
+name: Deploy Calmpa to GitHub Pages
 on:
   push:
     branches: [main]
