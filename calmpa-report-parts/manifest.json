@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "output": "calmpa/documents/calmpa-full-report.pdf",
+  "bytes": 41177877,
+  "sha256": "1292e438921a4453bd22df173ae85d92bf7e91790ae21e128409c4e3eebc5064",
+  "parts": [
+    {
+      "file": "report.part-01",
+      "bytes": 20971520,
+      "sha256": "16719e25d184ff7ac8a27d6de27532d12e6011cecf3c6811a8d077de6e0b0bc1"
+    },
+    {
+      "file": "report.part-02",
+      "bytes": 20206357,
+      "sha256": "6a52374f00d09bff63de81b6d77c3d458d76433d1808339684fbd0bf90eea8fb"
+    }
+  ]
+}
